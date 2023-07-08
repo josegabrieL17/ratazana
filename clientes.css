@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(136,92,92);
+}
+h1{
+    text-align: center  ;
+}
+div{
+    text-align: center;
+}
+.p{
+    font-size: 24px;
+}
+.banner2 {
+    background-color: rgb(105, 76, 76);
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .banner2 h2 {
+    color: rgb(0, 0, 0);
+  }
+  
+  .banner2 nav {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .banner2 nav a {
+    margin: 0 10px;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+  }
+  
+  .banner2 nav li {
+    display: inline-block;
+    list-style-type: none;
+  }

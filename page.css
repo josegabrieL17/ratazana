@@ -1,0 +1,93 @@
+p {
+    font-size: 30px;
+    color: black;
+}
+.su {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  margin-top: 20px;
+  margin-right: 20px;
+}
+.logo{
+    position: absolute;
+  top: 10px;
+  left: 10px;
+}
+body {
+    background-color: rgb(136, 92, 92);
+}
+
+div {
+    font-size: 35px;
+    color: rgb(90, 43, 43);
+}
+
+.banner {
+    background-color: rgb(233, 171, 171);
+    text-align: center;
+    padding: 10px;
+    margin: 20px auto;
+    max-width: 600px;
+}
+.su{
+    background-color: rgb(102, 71, 71);
+    padding: center;
+    margin: 20px auto;
+}
+
+.banner h1 {
+    font-size: 34px;
+}
+li{
+    font-size: 22px;
+}
+img{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+div li{
+    color: rgb(255, 153, 0);
+}
+.afonsinha strong{
+    color: rgb(197, 11, 11);
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+.menu{
+    text-align: center;
+}
+.menu{
+    color: rgb(255, 88, 88);
+}
+.menu-html{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+.margarina{
+    text-align: center;
+}
+.feijao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 55vh;
+}
+li .cliente {
+    text-decoration: none;    
+}
+.aaa{
+    border: 3px;
+}
+.m{
+    text-align: center;
+}
